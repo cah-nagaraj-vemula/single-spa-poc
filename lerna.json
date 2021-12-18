@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "my-parcel",
+    "parent-app",
+    "root-config"
+  ],
+  "version": "0.0.0"
+}
